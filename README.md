@@ -41,3 +41,7 @@ SHA-256 (Secure Hash Algorithm 256-bit) is a cryptographic hash function that ta
 3. **Initialization**: The hash values are initialized to specific constant values.
 4. **Processing**: Each 512-bit block is processed through 64 rounds of compression functions, updating the hash values.
 5. **Output**: The final hash values are concatenated to produce the 256-bit hash output.
+
+https://github.com/user-attachments/assets/59012f2c-0d4c-4a6f-8b21-f7cd0bc0d675
+
+
